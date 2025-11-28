@@ -12,6 +12,8 @@ I'm **Himanshu Adhikari**
 - 📫 How to reach me: adhikarihimanshu@gmail.com  
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=himanshuadhikari&color=blue)
+
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Himanshu-Adhikari&show_icons=true&theme=great-gatsby" alt="Himanshu" />
