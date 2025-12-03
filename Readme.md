@@ -6,8 +6,8 @@ I'm **Himanshu Adhikari**
 • **Just Trying to be consistent and build projects.**
 
 - 🔭 I’m developing and deploying projects.  
-- 🌱 I’m currently learning Devops services and System Design.  
-- 🎄 I wish to have a GAN 3x3 Cube.  
+- 🌱 I’m currently learning Devops services,FullStack, GenAI ,LLM and System Design.  
+- 🎄 I wish to get a GAN 3x3 Cube as a gift.  
 - 💬 Let's connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/himanshu-adhikari-858b74229/)  
 - 📫 How to reach me: adhikarihimanshu@gmail.com  
 
