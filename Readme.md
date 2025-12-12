@@ -31,5 +31,5 @@ I'm **Himanshu Adhikari**
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Himanshu-Adhikari&theme=aura)
+![](https://github-trophies.vercel.app/?username=Himanshu-Adhikari)
 
